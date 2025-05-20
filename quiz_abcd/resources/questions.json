@@ -1,0 +1,202 @@
+[
+  {
+    "question": "We had one problem__ only Janet knew we faced bankruptcy.",
+    "options": {
+      "a": ":",
+      "b": ",",
+      "c": ";",
+      "d": "."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the capital of Wales__",
+    "options": {
+      "a": ".",
+      "b": "!",
+      "c": "?",
+      "d": "□"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "What a lovely view you have here__",
+    "options": {
+      "a": "!",
+      "b": ".",
+      "c": "□",
+      "d": "?"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "She asked if I had a pen she could borrow__",
+    "options": {
+      "a": "?",
+      "b": ".",
+      "c": "!",
+      "d": ":"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Norway has applied for EC membership__ Sweden is expected to do the same.",
+    "options": {
+      "a": ",",
+      "b": ".",
+      "c": ";",
+      "d": ":"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Lisa speaks French, Juliet speaks Italian __ I speak Spanish.",
+    "options": {
+      "a": "and",
+      "b": ",",
+      "c": ";",
+      "d": "but"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Stanley was a determined__ even ruthless__ figure.",
+    "options": {
+      "a": ", ,",
+      "b": ": :",
+      "c": "; ;",
+      "d": "□ □"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Italy is famous for her composers and musicians__ France, for her chefs.",
+    "options": {
+      "a": ",",
+      "b": ":",
+      "c": ";",
+      "d": ""
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Lisa is upset__ Gus is having a nervous breakdown.",
+    "options": {
+      "a": ".",
+      "b": ";",
+      "c": ",",
+      "d": ":"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "She was sure of one thing__ she was not going to be a housewife.",
+    "options": {
+      "a": ":",
+      "b": ",",
+      "c": ";",
+      "d": "."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "The girls__ room was painted bright pink.",
+    "options": {
+      "a": "'",
+      "b": "’",
+      "c": "□",
+      "d": "’s"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "She can't go to the party because she's got the flu__",
+    "options": {
+      "a": ".",
+      "b": "!",
+      "c": "?",
+      "d": ","
+    },
+    "correct": "a"
+  },
+  {
+    "question": "He said__ 'I will not do it!'",
+    "options": {
+      "a": ":",
+      "b": ",",
+      "c": ";",
+      "d": "."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "The results were disappointing__ the project was shut down.",
+    "options": {
+      "a": ",",
+      "b": ":",
+      "c": ";",
+      "d": "."
+    },
+    "correct": "c"
+  },
+  {
+    "question": "After months of work, the scientists opened the tomb__ it was empty!",
+    "options": {
+      "a": ".",
+      "b": ";",
+      "c": ":",
+      "d": ","
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Mind your p__s and q__s.",
+    "options": {
+      "a": "'",
+      "b": "’",
+      "c": "□",
+      "d": ","
+    },
+    "correct": "a"
+  },
+  {
+    "question": "One must choose one__s words carefully.",
+    "options": {
+      "a": "'",
+      "b": ",",
+      "c": "’",
+      "d": "□"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "The publication of The Hobbit in 1937__ marked the beginning of Tolkien’s career.",
+    "options": {
+      "a": ",",
+      "b": ".",
+      "c": ":",
+      "d": ";"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Note that__ in each of these examples, the material could be removed.",
+    "options": {
+      "a": ",",
+      "b": ":",
+      "c": ";",
+      "d": "."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Josie wanted to be a teacher__ but after university she became a lawyer.",
+    "options": {
+      "a": ",",
+      "b": ";",
+      "c": ".",
+      "d": ":"
+    },
+    "correct": "a"
+  }
+]
