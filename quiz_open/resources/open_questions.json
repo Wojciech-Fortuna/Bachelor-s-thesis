@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Wstaw brakujący znak interpunkcyjny: What time is it___",
+    "answer": ["?"]
+  },
+  {
+    "question": "Przepisz zdanie z poprawną interpunkcją: I like coffee it keeps me awake.",
+    "answer": ["I like coffee. It keeps me awake.", "I like coffee; it keeps me awake."]
+  },
+  {
+    "question": "Wstaw brakującą kropkę w odpowiednie miejsce: She said 'I love this movie'",
+    "answer": ["She said 'I love this movie.'"]
+  },
+  {
+    "question": "Wskaż nieprawidłowy znak interpunkcyjny w zdaniu: It's raining, we should stay inside.",
+    "answer": [","]
+  },
+  {
+    "question": "Wstaw przecinki tam, gdzie są potrzebne: We visited Paris Rome and Madrid.",
+    "answer": ["We visited Paris, Rome and Madrid."]
+  },
+  {
+    "question": "Przepisz zdanie z przecinkami izolującymi: My brother who lives in London is coming to visit.",
+    "answer": ["My brother, who lives in London, is coming to visit."]
+  },
+  {
+    "question": "Wstaw pasujący w oba miejsca znak interpunkcyjny: I can't believe it___ That was amazing___",
+    "answer": ["!"]
+  },
+  {
+    "question": "Wpisz brakujący znak interpunkcyjny The students books were left behind.",
+    "answer": ["'", "The students' books were left behind.", "The student's books were left behind."]
+  },
+  {
+    "question": "Uzupełnij brakujący znak: I have three pets___ a dog, a cat, and a rabbit.",
+    "answer": [":"]
+  },
+  {
+    "question": "Wstaw przecineki, jeśli są potrzebne: The painting dated 1892 is thought to be a forgery",
+    "answer": ["The painting, dated 1892, is thought to be a forgery."]
+  },
+  {
+    "question": "Przepisz zdanie z odpowiednimi wykrzyknikami: Wow what a view",
+    "answer": ["Wow! What a view!"]
+  },
+  {
+    "question": "Wstaw brakujący znak interpunkcyjny: He is smart however he often forgets simple things.",
+    "answer": [";", ","]
+  },
+  {
+    "question": "Wskaż słowo po którym występuje zbędny znak interpunkcyjny: The books were old, dusty and, valuable.",
+    "answer": ["and"]
+  },
+  {
+    "question": "Uzupełnij przecinek: It's not you it's me.",
+    "answer": ["It's not you, it's me."]
+  },
+  {
+    "question": "Przepisz zdanie z poprawnymi przecinkami: We watched the movie the one with subtitles last night.",
+    "answer": ["We watched the movie, the one with subtitles, last night."]
+  },
+  {
+    "question": "Wskaż brakujący znak interpunkcyjny: Its time to go home.",
+    "answer": ["'"]
+  },
+  {
+    "question": "Wstaw przecinek w odpowiednim miejscu: Dear John I hope you're doing well.",
+    "answer": ["Dear John, I hope you're doing well."]
+  },
+  {
+    "question": "Przepisz zdanie poprawnie: Margaret Thatcher who hated trains refused to consider privatizing the railways.",
+    "answer": ["Margaret Thatcher, who hated trains, refused to consider privatizing the railways."]
+  },
+  {
+    "question": "Wstaw przecinki: She bought eggs milk bread and cheese.",
+    "answer": ["She bought eggs, milk, bread and cheese.", "She bought eggs, milk, bread, and cheese."]
+  },
+  {
+    "question": "Wskaż brakujący znak: He said 'Do you like it?",
+    "answer": ["'"]
+  }
+]
