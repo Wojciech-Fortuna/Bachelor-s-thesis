@@ -13,14 +13,18 @@
   <nav class="navbar">
     <div class="navbar-container">
       <div class="navbar-inner">
-        <div class="navbar-links">
+        <div class="navbar-links-left">
           <RouterLink to="/" class="nav-link" active-class="active">Strona Główna</RouterLink>
           <RouterLink to="/tests" class="nav-link" active-class="active">Testy</RouterLink>
+        </div>
+        <div class="navbar-links-right">
+          <RouterLink to="/profile" class="nav-link" active-class="active">Profil</RouterLink>
         </div>
       </div>
     </div>
   </nav>
 </template>
+
 
 
 
@@ -40,8 +44,17 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 80px; /* odpowiada h-20 */
+  height: 80px;
+  width: 100%;
 }
+
+.navbar-links-left,
+.navbar-links-right {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0 8px;
+}
+
 
 .navbar-links {
   display: flex;
